@@ -37,7 +37,7 @@ El problema principal es que los integrantes no están escuchando ni considerand
 ### 2. Diálogo Mejorado (Aplicación de Comunicación Asertiva)
 
 * **Estudiante A (Planteamiento claro y uso de "Yo"):**
- *"Compañeros, estuve revisando los diapositivas y me surge un poco de preocupación. Siento que hay dos o tres secciones que podrían quedar más claras si ajustamos la estructura del contenido, para asegurar que la idea principal se entienda bien al exponer."*
+ *"Compañeros, estuve revisando las diapositivas y me surge un poco de preocupación. Siento que hay dos o tres secciones que podrían quedar más claras si ajustamos la estructura del contenido, para asegurar que la idea principal se entienda bien al exponer."*
 
 * **Estudiante B:**
  *"Entiendo tu punto y me parece válido que quieras que el contenido esté lo más completo posible. Sin embargo, mi inquietud es el tiempo. Me preocupa que si reestructuramos todo en este momento, nos quede muy poco tiempo para ensayar la exposición oral juntos."*
@@ -79,7 +79,7 @@ Keneth:
 Los principales errores fueron la falta de escucha, la expresión poco adecuada de las opiniones y la falta de disposición para considerar el punto de vista de los demás. También se interpretaron algunos comentarios de manera negativa, lo que aumentó la tensión entre los integrantes.
 
 Naomi:
-Siento que el gran error fue caer en las acusaciones y en ponerse a la defensiva. En vez de hablar directamente de las diapositivas o el tiempo, se empezó a decir cosas como "ustedes nunca me escuchan". Eso hizo que la discusion dejara de ser sobre la tarea y se volviera un pleito persnal.
+Siento que el gran error fue caer en las acusaciones y en ponerse a la defensiva. En vez de hablar directamente de las diapositivas o el tiempo, se empezó a decir cosas como "ustedes nunca me escuchan". Eso hizo que la discusión dejara de ser sobre la tarea y se volviera un pleito personal.
 
 
 ### 4.2. ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
