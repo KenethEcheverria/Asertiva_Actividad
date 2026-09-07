@@ -83,7 +83,8 @@ Siento que el gran error fue caer en las acusaciones y en ponerse a la defensiva
 
 
 ### 4.2. ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
-Keneth:
+Keneth: 
+La comunicación asertiva permitió expresar las opiniones de manera clara y respetuosa, sin atacar a los demás. Además, permitió escuchar las preocupaciones de cada integrante y buscar una solución que tomara en cuenta ambas posiciones.
 
 Naomi:
 Nos sirvió mucho para bajar la tensión y enfocarnos en resolver el problema. En lugar de reclamar, aprendimos a decir de forma tranquila lo que nos preocupaba y a ponernos en el lugar del otro. Al final, logramos llegar a un acuerdo muy práctico donde mejoramos el contenido sin perder tiempo para ensayar.
